@@ -19,7 +19,7 @@ You should create one R script called run_analysis.R that does the following.
 # Implementation Details
 * Manually download data file from above link and unzip it to local directory - e.g. **`C:\Coursera\Project`**  
 * Unzip process will create directory **`"UCI HAR Dataset"`** and copy all the required files and subdirectories to this directory.  
-* Download the run_analysis.R file from [Github](https://github.com/shahnish) and copy in **`"UCI HAR Dataset"`** directory.  
+* Download the run_analysis.R file from [Github](https://github.com/shahnish/Getting_And_Clearning_Data) and copy in **`"UCI HAR Dataset"`** directory.  
 * In RStudio, set working direcotry to the local **`"UCI HAR Dataset"`** directory. e.g. **`setwd("C:\\Coursera\\Project\\UCI HAR Dataset")`**  
 * Type command **`source("run_analysis.R")`** to run the script for project.  
 * It will install **`data.table`** package if not present and will generate tidy data which in local directory. The same was uploaded to project website.  
